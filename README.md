@@ -1,4 +1,4 @@
-[![436ypalllka banner](logo.png)]
+![436ypalllka banner](logo.png)
 
 👋 Hi, I’m @436ypalllka<br>
 👀 I'm interested in web and gamedev<br>

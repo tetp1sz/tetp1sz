@@ -18,8 +18,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm" title="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" width="40" height="40"/>&nbsp;
 </div>
----
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=436ypalllka&theme=tokyonight-duo)](https://git.io/streak-stats)
----
 📫 How to reach me:
 -     Discord: 436ypalllka#3125

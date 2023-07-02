@@ -1,4 +1,4 @@
-[![436ypalllka banner](https://app.logoza.ru/?logo=95433c2573b20af548672a76241f09cc)]
+
 
 👋 Hi, I’m @436ypalllka<br>
 👀 I'm interested in web and gamedev<br>

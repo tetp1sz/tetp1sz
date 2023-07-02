@@ -1,3 +1,5 @@
+[![436ypalllka banner](https://app.logoza.ru/?logo=95433c2573b20af548672a76241f09cc)]
+
 👋 Hi, I’m @436ypalllka<br>
 👀 I'm interested in web and gamedev<br>
 🌱 Now I am honing my skills in python, mastering various libraries (including RenPY). I try to spend time learning Unity. Studying electronics repair in college<br>

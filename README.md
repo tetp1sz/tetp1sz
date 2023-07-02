@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @436ypalllka
-- 👀 I'm interested in system programming (C, C++ and assembler)
-- 🌱 Now I am studying C, assembler and doing a more detailed study of C++. Studying electronics repair in college
+- 👀 I'm interested in web and gamedev
+- 🌱 Now I am honing my skills in python, mastering various libraries (including RenPY). I try to spend time learning Unity. Studying electronics repair in college
 - 💞️ I'm not collaborating with anyone)
 - 📫 How to reach me:
 -     Discord: 436ypalllka#3125

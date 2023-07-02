@@ -6,6 +6,7 @@
 2. 🐍 Python
 3. 🪄 Python modules: customtkinter
 4. 🌐 basic HTML & CSS<br>
+
 💞️ Ready for cooperation<br>
 📫 How to reach me:
 -     Discord: 436ypalllka#3125

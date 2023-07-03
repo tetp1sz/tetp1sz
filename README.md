@@ -1,7 +1,7 @@
 ![436ypalllka banner](logo.png)
 ---
 ### 🐈 About Me:
-👋 Hello, I'm @436ypalllka, a self-taught programmer from Russiaa<br>
+👋 Hello, I'm @436ypalllka, a self-taught programmer from Russia<br>
 👀 I'm interested in web and gamedev<br>
 🌱 Now I am honing my skills in python, mastering various libraries (including RenPY). I try to spend time learning Unity. studying electronics maintenance and repair in college<br>
 💞️ Ready for cooperation<br>

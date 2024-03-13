@@ -2,7 +2,7 @@
 ---
 ### 🐈 About Me:
 👋 Hello, I'm @tetp1sz, a self-taught programmer from Russia<br>
-👀 I'm learning C# and Unity<br>
+👀 I'm learning C#, C++ and Unity<br>
 🌱 At the moment I have basic coding skills in C++ and C, I am studying C# and Unity in depth. I am in my second year of college, where I study radio electronics.<br>
 💞️ Ready for cooperation<br>
 📫 How to reach me:

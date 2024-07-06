@@ -3,7 +3,7 @@
 ### 🐈 About Me:
 👋 Hello, I'm @tetp1sz, a self-taught programmer from Russia<br>
 👀 I'm learning C, C++, Python and Web<br>
-🌱 At the moment I have basic coding skills in C++ and C, I am studying Python and Web in depth. I am in my second year of college, where I study radio electronics.<br>
+🌱 At the moment I have basic coding skills in C++ and C, I am studying Python and Web in depth. I'm in my third year of college, studying electronics repair.<br>
 💞️ Ready for cooperation<br>
 📫 How to reach me:
 -     Discord: tetp1sz

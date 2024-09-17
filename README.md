@@ -1,7 +1,7 @@
 
 ---
 ### 🐈 About Me:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetp1sz&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetp1sz&layout=compact)
 👋 Hello, I'm @tetp1sz, a self-taught programmer from Russia<br>
 👀 I have basic knowledge of C, Python and Web, currently learning Java.<br>
 🌱 As I wrote above, I have basic programming skills in C and Python. At the moment I am learning Java, and I am focusing on this language in order to do backend development. Also, I plan to expand my existing knowledge of C, because it is inextricably linked to my studies in college (learning to repair electronics).<br>

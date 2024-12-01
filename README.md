@@ -1,15 +1,12 @@
 
----
 ### 🐈 About Me:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetp1sz&layout=compact)
 
 👋 Hello, I'm @tetp1sz, a self-taught programmer from Russia<br>
 👀 Currently studying C, in the future I want to study ARM Assembler and Golang<br>
 🌱 I am currently studying in college, studying electronics repair there. I am interested in electronics and system programming, creating devices based on MCU or FPGA<br>
 💞️ Ready for cooperation<br>
 📫 How to reach me:
--     Discord: @tetp1sz
--     Telegram: @tap0kdeda88
+>Discord: @tetp1sz<br>Telegram: @tap0kdeda88
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>

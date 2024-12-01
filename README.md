@@ -1,5 +1,5 @@
 <div align = "center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Radio-electronics+repair+student)](https://git.io/typing-svg)
+  <img src = "https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Radio-electronics+repair+student">
   <br><br>
   <pre>
     💼 Draftsman (stone products)

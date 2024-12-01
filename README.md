@@ -4,8 +4,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetp1sz&layout=compact)
 
 👋 Hello, I'm @tetp1sz, a self-taught programmer from Russia<br>
-👀 I have basic knowledge of C, Python and Web, currently learning Java.<br>
-🌱 As I wrote above, I have basic programming skills in C and Python. At the moment I am learning Java, and I am focusing on this language in order to do backend development. Also, I plan to expand my existing knowledge of C, because it is inextricably linked to my studies in college (learning to repair electronics).<br>
+👀 Currently studying C, in the future I want to study ARM Assembler and Golang<br>
+🌱 I am currently studying in college, studying electronics repair there. I am interested in electronics and system programming, creating devices based on MCU or FPGA<br>
 💞️ Ready for cooperation<br>
 📫 How to reach me:
 -     Discord: @tetp1sz
@@ -16,9 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" title="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" title="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" title="VSC" width="40" height="40"/>&nbsp;
 </div>

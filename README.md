@@ -4,7 +4,7 @@
   <pre>
     💼 Draftsman (stone products)
     💻 C and PIC16 Assembly • Proteus v8 • SPlan v7 • Multisim
-    📖 Electronics • Linux • C • Golang • ARM Assembly
+    📖 Electronics • Linux • C • Golang • Frontend
     🎮 Music • Powerlifting • Reading • Code
   </pre>
   <div>
